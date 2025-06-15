@@ -1,5 +1,5 @@
 import unittest
-from DECHENDORJI_02240065_A3_PA import Banking_function
+from DECHENDORJI_02240065_A3 import Banking_function
 
 class Test_Banking_System(unittest.TestCase):
     """Test cases for the Banking System. how it works us through the Banking_function class."""
